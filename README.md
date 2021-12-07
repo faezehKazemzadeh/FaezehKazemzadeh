@@ -14,22 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/linkedin.svg" width="40"/>
-      </a>
 **Graphic Tools**
+<img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
-      </a>
-    </td>
-  </tr>
-</table>
