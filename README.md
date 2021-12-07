@@ -15,26 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Programming Languages**
+<h3 align="left">Programming Languages:</h3>  
 <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
 
-**Frameworks & Libraries**
+<h3 align="left">Frameworks & Libraries:</h3>  
       <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
 
 
 
-
-**Markup & Stylesheet**
+<h3 align="left">Markup & Stylesheet:</h3>  
  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
 
 
-
-**Graphic Tools**
+<h3 align="left">Graphic Tools:</h3>  
 <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
 
