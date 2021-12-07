@@ -20,21 +20,13 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/illustrator.svg" width="40"/>
-      </a>
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
       </a>
-      <br>Photoshop
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
       </a>
-      <br>Figma
     </td>
   </tr>
 </table>
