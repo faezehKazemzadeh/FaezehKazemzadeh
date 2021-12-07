@@ -14,9 +14,10 @@
 </p>
 <h3 align="left">Frameworks & Libraries:</h3>  
 <p align="left"> 
-      <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
 </p>
 
 
@@ -26,6 +27,12 @@
  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
 </p>
+
+<h3 align="left">DataBase:</h3>  
+<p align="left"> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
 
 <h3 align="left">Graphic Tools:</h3>  
 <p align="left"> 
@@ -38,6 +45,7 @@
 <a href="https://linkedin.com/in/shaan-alam-01784018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaan-alam-01784018a" height="30" width="40" /></a>
 <!--<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__shaanalam__" height="30" width="40" /></a>  -->
 </p>
+
 <h3 align="left">Other Tools:</h3>  
 <p align="left"> 
       <a><img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40"/></a>
