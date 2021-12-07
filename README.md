@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Programming Languages:</h3>  
+<p align="left"> 
 <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
-
+</p>
 <h3 align="left">Frameworks & Libraries:</h3>  
       <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
