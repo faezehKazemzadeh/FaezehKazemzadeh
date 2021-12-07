@@ -1,11 +1,11 @@
-### Hi there <img width="60px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+### Hello World, I'm Faezeh Kazemzadeh  <img width="60px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <!--
 **faezehKazemzadeh/FaezehKazemzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Javascript
+- 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaan-alam-01784018a" height="30" width="40" />
 **Programming Languages**
 <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
