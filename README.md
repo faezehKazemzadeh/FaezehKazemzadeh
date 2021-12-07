@@ -1,4 +1,4 @@
-### Hi there 👋<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+### Hi there <img width="60px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <!--
 **faezehKazemzadeh/FaezehKazemzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
