@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/linkedin.svg" width="40"/>
+      </a>
 **Graphic Tools**
 
 <table>
