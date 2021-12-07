@@ -42,3 +42,4 @@
 <p align="left"> 
       <a><img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40"/></a>
       <a><img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40"/></a>
+      </p>
